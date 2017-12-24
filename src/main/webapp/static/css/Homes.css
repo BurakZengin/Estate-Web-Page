@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24.Kas.2017, 15:10:09
+    Author     : ELIDOR
+*/
+#detaylar{
+    margin-right: 45px;
+}
+#table{
+    width: 950px;
+    text-align:center; 
+    vertical-align:middle;
+    margin: auto;
+}
+#table2{
+    width: 300px;
+    text-align:left; 
+    vertical-align:middle;
+}
+
+#icerik{
+    margin-left: 30px;
+}
+.table th {
+    text-align: center;   
+}

@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27.Kas.2017, 20:44:33
+    Author     : ELIDOR
+*/
+
+#Satilik:focus{
+    background:#f0ad4e;
+    color: #FFFFFF;
+}
+#Satilik{
+    background: #ebebeb;
+    color: #3b3e3f;
+}
+#Kiralik{
+    background: #ebebeb;
+    color: #3b3e3f;
+}
+#Kiralik:focus{
+    background: #f0ad4e;
+    color: #FFFFFF;
+}

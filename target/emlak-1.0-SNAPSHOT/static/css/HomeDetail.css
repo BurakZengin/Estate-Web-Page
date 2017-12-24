@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24.Kas.2017, 21:40:08
+    Author     : ELIDOR
+*/
+#textArea{
+     padding: 20px;
+}
+#nav{
+    height: 50px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+th {
+  font-family: "Trebuchet MS", Arial, Verdana;
+  font-size: 15px;
+}
+#aciklama{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+textarea {
+    border-radius: 10px;
+    resize: none;
+    margin-top: 10px;
+    border: #FFFFFF;
+    width: 100%;
+    -webkit-box-sizing: border-box; /* <=iOS4, <= Android  2.3 */
+       -moz-box-sizing: border-box; /* FF1+ */
+            box-sizing: border-box; /* Chrome, IE8, Opera, Safari 5.1*/
+}
+
+#detaylar{
+    margin-right: 45px;
+}
+#table{
+    width: 1200px;
+    text-align:center; 
+    vertical-align:middle;
+    margin: auto;
+}
+#table2{
+    width: 300px;
+    text-align:left; 
+    vertical-align:middle;
+}
+
+#icerik{
+    margin-top: 0px;
+    margin-left: 2px;
+}
+.table th {
+    text-align: center;   
+}
+
+#foto{
+    margin-top: 30px;
+}
+
+#fiyat{
+    margin-left: 20px;
+}
